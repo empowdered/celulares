@@ -1,0 +1,17 @@
+C:\Users\jpml\AppData\Local\Temporary Projects\sistemaCelulares\bin\Debug\sistemaCelulares.exe
+C:\Users\jpml\AppData\Local\Temporary Projects\sistemaCelulares\bin\Debug\sistemaCelulares.pdb
+C:\Users\jpml\AppData\Local\Temporary Projects\sistemaCelulares\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jpml\AppData\Local\Temporary Projects\sistemaCelulares\obj\Debug\sistemaCelulares.Form1.resources
+C:\Users\jpml\AppData\Local\Temporary Projects\sistemaCelulares\obj\Debug\sistemaCelulares.Properties.Resources.resources
+C:\Users\jpml\AppData\Local\Temporary Projects\sistemaCelulares\obj\Debug\sistemaCelulares.csproj.GenerateResource.Cache
+C:\Users\jpml\AppData\Local\Temporary Projects\sistemaCelulares\obj\Debug\sistemaCelulares.exe
+C:\Users\jpml\AppData\Local\Temporary Projects\sistemaCelulares\obj\Debug\sistemaCelulares.pdb
+C:\Users\jpml\Documents\Visual Studio 2008\Projects\sistemaCelulares\sistemaCelulares\obj\Debug\sistemaCelulares.exe
+C:\Users\jpml\Documents\Visual Studio 2008\Projects\sistemaCelulares\sistemaCelulares\obj\Debug\sistemaCelulares.pdb
+C:\Users\jpml\Documents\Visual Studio 2008\Projects\sistemaCelulares\sistemaCelulares\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jpml\Documents\Visual Studio 2008\Projects\sistemaCelulares\sistemaCelulares\obj\Debug\sistemaCelulares.Form1.resources
+C:\Users\jpml\Documents\Visual Studio 2008\Projects\sistemaCelulares\sistemaCelulares\obj\Debug\sistemaCelulares.Properties.Resources.resources
+C:\Users\jpml\Documents\Visual Studio 2008\Projects\sistemaCelulares\sistemaCelulares\obj\Debug\sistemaCelulares.csproj.GenerateResource.Cache
+C:\Users\jpml\Documents\Visual Studio 2008\Projects\sistemaCelulares\sistemaCelulares\bin\Debug\sistemaCelulares.exe
+C:\Users\jpml\Documents\Visual Studio 2008\Projects\sistemaCelulares\sistemaCelulares\bin\Debug\sistemaCelulares.pdb
+C:\Users\jpml\Documents\Visual Studio 2008\Projects\sistemaCelulares\sistemaCelulares\bin\Debug\sistemaCelulares.exe.config
